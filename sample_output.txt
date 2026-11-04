@@ -1,0 +1,58 @@
+RELIABLE COMMAND-LINE EXPENSE TRACKER
+Illustrative sample session (not a live program capture)
+
+================================
+         EXPENSE TRACKER
+================================
+1. Add Expense
+2. View All Expenses
+3. Category-wise Total
+4. Overall Expense Total
+5. Exit
+================================
+Enter your choice: 1
+
+Enter category: Food
+Enter description: Lunch
+Enter amount: 150
+
+Expense added successfully!
+
+Enter your choice: 1
+
+Enter category: Travel
+Enter description: Bus Ticket
+Enter amount: 50
+
+Expense added successfully!
+
+Enter your choice: 1
+
+Enter category: Food
+Enter description: Snacks
+Enter amount: 40
+
+Expense added successfully!
+
+Enter your choice: 2
+
+========== ALL EXPENSES ==========
+Category          Description              Amount
+---------------------------------------------
+Food              Lunch                    150.00
+Travel            Bus Ticket                50.00
+Food              Snacks                   40.00
+
+Enter your choice: 3
+
+Enter category to search: food
+
+Total expense in food: Rs. 190.00
+
+Enter your choice: 4
+
+Overall expense: Rs. 240.00
+
+Enter your choice: 5
+
+Thank you for using Expense Tracker!
